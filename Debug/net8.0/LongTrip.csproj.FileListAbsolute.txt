@@ -1,0 +1,14 @@
+C:\Users\osuks\source\repos\LongTrip\bin\Debug\net8.0\LongTrip.exe
+C:\Users\osuks\source\repos\LongTrip\bin\Debug\net8.0\LongTrip.deps.json
+C:\Users\osuks\source\repos\LongTrip\bin\Debug\net8.0\LongTrip.runtimeconfig.json
+C:\Users\osuks\source\repos\LongTrip\bin\Debug\net8.0\LongTrip.dll
+C:\Users\osuks\source\repos\LongTrip\bin\Debug\net8.0\LongTrip.pdb
+C:\Users\osuks\source\repos\LongTrip\obj\Debug\net8.0\LongTrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osuks\source\repos\LongTrip\obj\Debug\net8.0\LongTrip.AssemblyInfoInputs.cache
+C:\Users\osuks\source\repos\LongTrip\obj\Debug\net8.0\LongTrip.AssemblyInfo.cs
+C:\Users\osuks\source\repos\LongTrip\obj\Debug\net8.0\LongTrip.csproj.CoreCompileInputs.cache
+C:\Users\osuks\source\repos\LongTrip\obj\Debug\net8.0\LongTrip.dll
+C:\Users\osuks\source\repos\LongTrip\obj\Debug\net8.0\refint\LongTrip.dll
+C:\Users\osuks\source\repos\LongTrip\obj\Debug\net8.0\LongTrip.pdb
+C:\Users\osuks\source\repos\LongTrip\obj\Debug\net8.0\LongTrip.genruntimeconfig.cache
+C:\Users\osuks\source\repos\LongTrip\obj\Debug\net8.0\ref\LongTrip.dll
